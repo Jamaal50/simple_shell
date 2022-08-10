@@ -78,6 +78,7 @@ char *_strchr(char *s, char c)
 		return (s + i);
 	return ('\0');
 }
+
 /**
  * _strspn - gets the length of a prefix substring.
  * @s: initial segment.
