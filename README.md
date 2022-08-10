@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Shell project 0x16.c - Sodash -
 
 This is a simple UNIX command interpreter based on bash and Sh.
@@ -267,3 +268,7 @@ $
 ## More information
 
 **Sodash** is a simple shell unix command interpreter that is part of the alx low level programming module at ALX Africa School and is intended to emulate the basics **sh** shell. All the information given in this README is based on the **sodash** and **bash** man (1) pages.
+=======
+# simple_shell
+A simple UNIX command interpreter
+>>>>>>> 26468630f91cd2f45270c7e62ed702a71cbf87a5
